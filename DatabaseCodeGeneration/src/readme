@@ -1,0 +1,16 @@
+mysql  com.mobile /Users/administrator/mobile-service-application/SQL/schema.xml  /Users/administrator/mobile-service-application/SQL/schema.zip
+
+
+
+mysql = database type com.mobile = package schema.xml location    zip location
+
+andrew - mysql  com.mobile /Users/wtccuser/Documents/mobileapps/SQL/schema.xml  /Users/wtccuser/Documents/mobileapps/SQL/schema.zip
+
+hope - mysql  com.mobile /Users/HopeBenziger/mobile-service-application/SQL/schema.xml  /Users/HopeBenziger/mobile-service-application/SQL/schema.zip
+
+chitra - mysql  com.mobile /Users/Chitra/Documents/Mobile_Web_Application/SQL/schema.xml  /Users/Chitra/Documents/Mobile_Web_Application/SQL/schema.zip
+
+com.spoledge.audao.generator.Main
+
+
+mysql com.mobile /Users/andrewhinton/Documents/GitHub/product-license/WebApplicationProductlicense/src/schema.xml /Users/andrewhinton/Documents/GitHub/product-license/WebApplicationProductlicense/src/SQL/schema.zip
